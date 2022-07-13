@@ -1,0 +1,7 @@
+[submodule "Kernel"]
+	path = Kernel
+	url = https://github.com/ZhiyangZhou24/kernel-5.2-v3s.git
+
+[submodule "U-Boot"]
+	path = U-Boot
+	url = https://github.com/Lichee-Pi/u-boot.git -b v3s-current
