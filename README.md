@@ -25,10 +25,9 @@ The AtomicPi:<br>
 	  •	24 FPC pinheader for an OV2640 and an OV5640 parallel camera（10bit）<br>
 	  •	2' ST7789V displays<br>
 	  •	onboard microphone<br>
-	
 	  •	onboard IMU: MPU9250<br>
-	
-	  •	onboard Barometer: SPL06-001<br>•	2*SD card slot<br>
+	  •	onboard Barometer: SPL06-001<br>•	
+	  • 2*SD card slot<br>
 
 - Pic1
 
